@@ -1,0 +1,20 @@
+D:\FPT - APTECH\BOOKONLINE\Utilities\bin\Debug\Utilities.dll
+D:\FPT - APTECH\BOOKONLINE\Utilities\bin\Debug\Utilities.pdb
+D:\FPT - APTECH\BOOKONLINE\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\BOOKONLINE\Utilities\obj\Debug\Utilities.dll
+D:\FPT - APTECH\BOOKONLINE\Utilities\obj\Debug\Utilities.pdb
+C:\Inetpub\wwwroot\UtilitiesLayers\bin\Debug\UtilitiesLayers.dll
+C:\Inetpub\wwwroot\UtilitiesLayers\bin\Debug\UtilitiesLayers.pdb
+C:\Inetpub\wwwroot\UtilitiesLayers\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\UtilitiesLayers\obj\Debug\UtilitiesLayers.dll
+C:\Inetpub\wwwroot\UtilitiesLayers\obj\Debug\UtilitiesLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\UtilitiesLayers\bin\Debug\UtilitiesLayers.dll
+D:\FPT - APTECH\SEM III\eProject\UtilitiesLayers\bin\Debug\UtilitiesLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\UtilitiesLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\UtilitiesLayers\obj\Debug\UtilitiesLayers.dll
+D:\FPT - APTECH\SEM III\eProject\UtilitiesLayers\obj\Debug\UtilitiesLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\UtilitiesLayers\bin\Debug\UtilitiesLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\UtilitiesLayers\bin\Debug\UtilitiesLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\UtilitiesLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SourceCode\UtilitiesLayers\obj\Debug\UtilitiesLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\UtilitiesLayers\obj\Debug\UtilitiesLayers.pdb

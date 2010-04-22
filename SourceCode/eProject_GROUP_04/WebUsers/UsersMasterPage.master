@@ -1,0 +1,226 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="UsersMasterPage.master.cs" Inherits="WebUsers_UsersMasterPage" %>
+<%@ Register assembly="System.Web.Silverlight" namespace="System.Web.UI.SilverlightControls" tagprefix="asp" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Content/UserCss.css" rel="stylesheet" type="text/css" />
+    <script src="Content/JUsers.js" type="text/javascript"></script>
+    <style type="text/css">
+        .imageRotatorDiv
+        {
+        	height:400px;
+        	width:255px;       
+        }
+    </style>
+   </head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server" ></asp:ScriptManager>
+    <center>
+        <div class="banner">
+            <img src="Images/.." style="width: 100%; height: 50px" />
+             </div>
+        <div class="topmenu">
+            <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td class="left">&nbsp;</td>
+                        <td style="width:15%"><a href="">TRANG CHỦ</a></td>
+                        <td>::</td>
+                        <td style="width:15%"><a href="">SÁCH</a></td>
+                        <td>::</td>
+                        <td style="width:15%"><a href="">TẠP CHÍ</a></td>
+                        <td>::</td>
+                        <td style="width:15%"><a href="">DOWNLOAD</a></td>
+                        <td>::</td>
+                        <td style="width:15%"><a href="">TIN TỨC</a></td>
+                        <td >::</td>
+                        <td style="width:15%"><a href="">LIÊN HỆ</a></td>
+                        <td class="right">&nbsp;</td>
+                    </tr>
+                </table>
+            </div>
+     <div class="center">
+     <table style="width:100%;" border="1" cellpadding="0" cellspacing="0" >      
+        <tr>
+            <td class="left" rowspan="2">
+            <table class="search" border="0" cellpadding="0" cellspacing="0" >
+                <tr>
+                    <td class="header"> SEARCH BOOKS </td>
+                </tr>
+                <tr> 
+                    <td>
+                        <asp:DropDownList ID="DropDownList1" runat="server" Height="27px" 
+                            style="margin-bottom: 0px" Width="187px">
+                        </asp:DropDownList>
+                    </td>
+                </tr>
+                <tr> 
+                    <td>
+                        <asp:DropDownList ID="DropDownList4" runat="server" Height="20px" Width="187px">
+                        </asp:DropDownList>
+                    </td>
+                </tr>
+                <tr> 
+                    <td>
+                        <asp:DropDownList ID="DropDownList5" runat="server" Height="20px" Width="187px">
+                        </asp:DropDownList>
+                    </td>
+                </tr>
+                <tr> 
+                    <td class="style2">
+                        <asp:DropDownList ID="DropDownList2" runat="server" Height="20px" Width="187px">
+                        </asp:DropDownList>
+                    </td>
+                </tr>
+                <tr> 
+                    <td>
+                        <asp:DropDownList ID="DropDownList3" runat="server" Height="20px" Width="187px">
+                        </asp:DropDownList>
+                    </td>
+                </tr>
+            </table>
+            </td>
+            <td class="middle">
+             <table border= "0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td style="vertical-align:text-top;text-align:justify;" >                        
+                        <div id="imageRotatorDiv">
+                       <table border="0" style="width:100%;">
+                           <tr>
+                              <td>
+                                <asp:Silverlight ID="Silverlight1" runat="server" 
+                                Source="~/ClientBin/SlideShowImages.xap" Height="400px" Width="255px">                               
+                                </asp:Silverlight>
+                               </td>
+                                <td style="width:20%;">
+                                    <img src="Images/189nguyenoanh.gif" style="width: 76px; height: 200px" /></td>       
+                               <td>
+                                    <asp:Silverlight ID="Silverlight2" runat="server" 
+                                Source="~/ClientBin/SlideShowImages.xap" Height="400px" Width="255px">
+                                    </asp:Silverlight>	
+                               </td>
+                                                         
+                           </tr>
+                       </table>	           
+                     </div>  
+                    </td>                                  
+                </tr>
+                </table>        
+             </td>
+            <td class="right" rowspan="2">
+                <asp:LoginView ID="LoginView1" runat="server">
+                    <LoggedInTemplate>
+                        <br />
+                            Chào bạn&nbsp;
+                            <asp:LoginName ID="LoginName1" runat="server" /><br />
+                            <asp:LinkButton ID="LinkButton1" runat="server">Đổi mật khẩu</asp:LinkButton>
+                            &nbsp;&nbsp;|&nbsp;<asp:LoginStatus ID="LoginStatus1" runat="server" />
+                        <br /><br />
+                        <hr />
+                    </LoggedInTemplate>
+                    <AnonymousTemplate>
+                        <table class="login" border="0" cellpadding="0" cellspacing="0" >
+                            <tr>
+                                <td class="header">
+                                    LOGIN
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <asp:Login ID="Login2" runat="server" onauthenticate="Login2_Authenticate" 
+                                        onloggedin="Login2_LoggedIn">
+                                        <LayoutTemplate>
+                                            <table border="0" cellpadding="1" cellspacing="0" 
+                                                style="border-collapse:collapse;">
+                                                <tr>
+                                                    <td>
+                                                        <table border="0" cellpadding="0">
+                                                            <tr>
+                                                                <td align="right">
+                                                                    <asp:Label ID="UserNameLabel" runat="server" AssociatedControlID="UserName">User Name:</asp:Label>
+                                                                </td>
+                                                                <td>
+                                                                    <asp:TextBox ID="UserName" runat="server" Width="104px"></asp:TextBox>
+                                                                    <asp:RequiredFieldValidator ID="UserNameRequired" runat="server" 
+                                                                        ControlToValidate="UserName" ErrorMessage="User Name is required." 
+                                                                        ToolTip="User Name is required." ValidationGroup="ctl00$ctl17$Login2">*</asp:RequiredFieldValidator>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="right">
+                                                                    <asp:Label ID="PasswordLabel" runat="server" AssociatedControlID="Password">Password:</asp:Label>
+                                                                </td>
+                                                                <td>
+                                                                    <asp:TextBox ID="Password" runat="server" TextMode="Password" Width="104px" 
+                                                                        Height="22px"></asp:TextBox>
+                                                                    <asp:RequiredFieldValidator ID="PasswordRequired" runat="server" 
+                                                                        ControlToValidate="Password" ErrorMessage="Password is required." 
+                                                                        ToolTip="Password is required." ValidationGroup="ctl00$ctl17$Login2">*</asp:RequiredFieldValidator>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td colspan="2">
+                                                                    <asp:CheckBox ID="RememberMe" runat="server" Text="Ghi Nhớ ?" />
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="center" colspan="2" style="color:Red;">
+                                                                    <asp:Literal ID="FailureText" runat="server" EnableViewState="False"></asp:Literal>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="right" colspan="2">
+                                                                    <asp:LinkButton ID="LinkButton2" runat="server" 
+                                                                        PostBackUrl="~/WebUsers/UsersRegistry.aspx">Đăng Ký</asp:LinkButton>
+                                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                    <asp:Button ID="LoginButton" runat="server" CommandName="Login" Text="Đăng Nhập" 
+                                                                        ValidationGroup="ctl00$ctl17$Login2" />
+                                                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </LayoutTemplate>
+                                    </asp:Login>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                <hr />
+                                    tằng tăng tằng</td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    tằng tăng tằng</td>
+                            </tr>
+                        </table>
+                    </AnonymousTemplate>
+                </asp:LoginView>
+                </td>
+        </tr>
+          <tr>                   
+            <td class="content">    
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+             egterwtre
+             </asp:ContentPlaceHolder>         
+                     
+            </td>
+        </tr>
+        <tr>        
+            <td colspan="3">
+                <img src="Images/.." style="width: 1002px; height: 36px" />
+                
+         </td>
+        </tr>
+    </table>
+    </div>
+    </center>
+   
+    </form>
+   
+</body>
+</html>

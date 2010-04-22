@@ -1,0 +1,84 @@
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\ImageRotator_CSharp.Web.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\ImageRotator_CSharp.Web.pdb
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\System.Web.Silverlight.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\obj\Debug\ImageRotator_CSharp.Web.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp.Web\obj\Debug\ImageRotator_CSharp.Web.pdb
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.pdb
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\System.Web.Silverlight.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.pdb
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.pdb
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\System.Web.Silverlight.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.pdb
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.pdb
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\System.Web.Silverlight.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.dll
+C:\Inetpub\wwwroot\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.pdb
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.pdb
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\System.Web.Silverlight.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\de\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\es\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\fr\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\it\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\ja\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\ko\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\ImageRotator_CSharp.Web.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\System.Web.Silverlight.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\de\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\es\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\fr\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\it\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\ja\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\ko\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages.Web\obj\Debug\ImageRotator_CSharp.Web.pdb

@@ -1,0 +1,5 @@
+D:\FPT - APTECH\BOOKONLINE\Utilities\bin\Debug\Utilities.dll
+D:\FPT - APTECH\BOOKONLINE\Utilities\bin\Debug\Utilities.pdb
+D:\FPT - APTECH\BOOKONLINE\Utilities\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\BOOKONLINE\Utilities\obj\Debug\Utilities.dll
+D:\FPT - APTECH\BOOKONLINE\Utilities\obj\Debug\Utilities.pdb

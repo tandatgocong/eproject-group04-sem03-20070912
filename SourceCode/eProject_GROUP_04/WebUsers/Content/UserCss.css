@@ -1,0 +1,116 @@
+﻿body 
+{
+	margin:0px;
+	font-family:Arial;
+	font-size:10pt;
+}
+
+.allwidth
+{
+	width:1002px;
+	text-align:left;
+}
+/*---- MENU -------*/
+.topmenu table
+{
+	width:100%;
+	height:32px;
+	background-image:url('../Images/tmnbg.jpg');
+	margin-right: 4px;
+	font-size:14px;
+}
+.content .conntect
+{
+	width:4px;
+	background-image:url(../Images/tmnleft.jpg);
+}
+.topmenu td.left
+{
+	width:4px;
+	background-image:url(../Images/tmnleft.jpg);
+}
+
+.topmenu td.right
+{
+	width:4px;
+	background-image:url(../Images/tmnright.jpg);
+}
+
+.topmenu td a
+{
+	display:block;
+	color:#FFF;
+	text-decoration:none;
+	font-weight:bold;
+	font-size:10pt;
+	text-align:center;
+}
+
+.topmenu td a:hover
+{
+	color:#FF0;
+}
+
+.topmenu td
+{
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+	font-size:8pt;
+}
+/*---------CENTER------------------*/
+
+.center .left
+{
+	width:20%;
+	vertical-align:text-top;
+}
+.center .middle
+{
+	width:60%;
+}
+
+.center .middle table
+{
+	Width:100%;
+	Height:100%;
+}
+
+.center .right
+{
+	width:20%;
+	vertical-align:text-top;
+}
+.center .left .search
+{
+	width:100%;
+}
+.center .left .search .header
+{
+	color:White;
+	font-family:Arial;
+	height:25px;
+	font-size:10pt;
+	font-weight:bold;
+	background-image:url('../Images/tmnbg.jpg');
+	
+}
+
+.center .right .login
+{
+		width:100%;
+}
+
+.center .right .login .header
+{
+	color:White;
+	font-family:Arial;
+	height:25px;
+	font-size:10pt;
+	font-weight:bold;
+	background-image:url('../Images/tmnbg.jpg');
+}
+.content
+{
+	text-align:left;
+}

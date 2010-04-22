@@ -1,0 +1,5 @@
+D:\FPT - APTECH\BOOKONLINE\DModel\bin\Debug\DModel.dll
+D:\FPT - APTECH\BOOKONLINE\DModel\bin\Debug\DModel.pdb
+D:\FPT - APTECH\BOOKONLINE\DModel\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\BOOKONLINE\DModel\obj\Debug\DModel.dll
+D:\FPT - APTECH\BOOKONLINE\DModel\obj\Debug\DModel.pdb
