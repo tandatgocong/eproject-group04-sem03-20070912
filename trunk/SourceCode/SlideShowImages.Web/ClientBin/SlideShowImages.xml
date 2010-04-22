@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	ImageUri: Absolute or Relative path and name of image.
+	RedirectLink (optional): Uri to redirect to if image is clicked.
+	Order (optional): Mouse of Order expression.
+-->
+<PictureAlbum ImageWidth="480" ImageHeight="360">
+  <SlideShowImage>
+    <ImageUri>../Images/a.jpg</ImageUri>
+    <RedirectLink>http://www.tasteofstepford.com</RedirectLink>
+    <Order>1</Order>
+    <DisplayImage>False</DisplayImage>
+  </SlideShowImage>
+  <SlideShowImage>
+    <ImageUri>../Images/b.jpg</ImageUri>
+    <RedirectLink>http://www.tasteofstepford.com</RedirectLink>
+    <Order>2</Order>
+    <DisplayImage>True</DisplayImage>
+  </SlideShowImage>
+  <SlideShowImage>
+    <ImageUri>../Images/c.jpg</ImageUri>
+    <RedirectLink>http://www.tasteofstepford.com</RedirectLink>
+    <Order>3</Order>
+    <DisplayImage>True</DisplayImage>
+  </SlideShowImage>
+  <SlideShowImage>
+    <ImageUri>../Images/d.jpg</ImageUri>
+    <RedirectLink>http://www.tasteofstepford.com</RedirectLink>
+    <Order>4</Order>
+    <DisplayImage>True</DisplayImage>
+  </SlideShowImage>
+  <SlideShowImage>
+    <ImageUri>../Images/e.jpg</ImageUri>
+    <RedirectLink>http://www.tasteofstepford.com</RedirectLink>
+    <Order>5</Order>
+    <DisplayImage>True</DisplayImage>
+  </SlideShowImage>
+  <SlideShowImage>
+    <ImageUri>../Images/f.jpg</ImageUri>
+    <RedirectLink>http://www.tasteofstepford.com</RedirectLink>
+    <Order>6</Order>
+    <DisplayImage>True</DisplayImage>
+  </SlideShowImage>
+  <SlideShowImage>
+    <ImageUri>../Images/g.jpg</ImageUri>
+    <RedirectLink>http://www.tasteofstepford.com</RedirectLink>
+    <Order>7</Order>
+    <DisplayImage>True</DisplayImage>
+  </SlideShowImage>
+  <SlideShowImage>
+    <ImageUri>http://www.anothercodesite.com/blog/pics/ShamrockCookies.jpg</ImageUri>
+    <RedirectLink>http://www.tasteofstepford.com</RedirectLink>
+    <Order>8</Order>
+    <DisplayImage>True</DisplayImage>
+  </SlideShowImage>
+</PictureAlbum>

@@ -1,0 +1,28 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\tjohnson\Documents\Visual Studio 2008\AnotherCodeSiteBlog\Dec08_SL_SlideShow\ImageRotator_CSharp\PrecompiledWeb\">
+    <file relUrl="bin/System.Web.Silverlight.dll" publishTime="09/23/2008 09:54:02" />
+    <file relUrl="ClientBin/Images/a.jpg" publishTime="10/28/2008 17:44:17" />
+    <file relUrl="bin/de/System.Web.Silverlight.resources.dll" publishTime="09/23/2008 09:54:02" />
+    <file relUrl="bin/ja/System.Web.Silverlight.resources.dll" publishTime="09/23/2008 09:54:02" />
+    <file relUrl="Web.config" publishTime="01/09/2009 20:13:25" />
+    <file relUrl="bin/fr/System.Web.Silverlight.resources.dll" publishTime="09/23/2008 09:54:02" />
+    <file relUrl="ImageRotatorTestPage.aspx" publishTime="01/09/2009 22:18:47" />
+    <file relUrl="ClientBin/Images/d.jpg" publishTime="10/28/2008 17:45:35" />
+    <file relUrl="bin/ImageRotator_CSharp.Web.pdb" publishTime="01/09/2009 22:19:50" />
+    <file relUrl="bin/zh-Hans/System.Web.Silverlight.resources.dll" publishTime="09/23/2008 09:54:02" />
+    <file relUrl="ClientBin/SlideShowImages.xml" publishTime="01/09/2009 22:08:42" />
+    <file relUrl="bin/ImageRotator_CSharp.Web.dll" publishTime="01/09/2009 22:19:50" />
+    <file relUrl="ClientBin/Images/c.jpg" publishTime="10/28/2008 17:45:21" />
+    <file relUrl="ClientBin/Images/f.jpg" publishTime="10/28/2008 17:46:11" />
+    <file relUrl="ImageRotatorTestPage.html" publishTime="01/09/2009 22:11:24" />
+    <file relUrl="bin/zh-Hant/System.Web.Silverlight.resources.dll" publishTime="09/23/2008 09:54:02" />
+    <file relUrl="bin/it/System.Web.Silverlight.resources.dll" publishTime="09/23/2008 09:54:02" />
+    <file relUrl="ClientBin/ImageRotator_CSharp.xap" publishTime="01/09/2009 22:19:50" />
+    <file relUrl="bin/ko/System.Web.Silverlight.resources.dll" publishTime="09/23/2008 09:54:02" />
+    <file relUrl="Silverlight.js" publishTime="01/05/2009 21:42:18" />
+    <file relUrl="ClientBin/Images/b.jpg" publishTime="09/01/2008 09:06:32" />
+    <file relUrl="ClientBin/Images/e.jpg" publishTime="10/28/2008 17:45:47" />
+    <file relUrl="ClientBin/Images/g.jpg" publishTime="09/01/2008 08:59:11" />
+    <file relUrl="bin/es/System.Web.Silverlight.resources.dll" publishTime="09/23/2008 09:54:02" />
+  </publishTarget>
+</publishData>

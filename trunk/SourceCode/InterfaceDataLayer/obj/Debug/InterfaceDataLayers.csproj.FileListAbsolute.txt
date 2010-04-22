@@ -1,0 +1,28 @@
+D:\FPT - APTECH\BOOKONLINE\InterfaceDataLayer\bin\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\BOOKONLINE\InterfaceDataLayer\bin\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\BOOKONLINE\InterfaceDataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\BOOKONLINE\InterfaceDataLayer\obj\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\BOOKONLINE\InterfaceDataLayer\obj\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\BOOKONLINE\InterfaceDataLayer\bin\Debug\DModel.dll
+D:\FPT - APTECH\BOOKONLINE\InterfaceDataLayer\bin\Debug\DModel.pdb
+C:\Inetpub\wwwroot\InterfaceDataLayer\bin\Debug\InterfaceDataLayer.dll
+C:\Inetpub\wwwroot\InterfaceDataLayer\bin\Debug\InterfaceDataLayer.pdb
+C:\Inetpub\wwwroot\InterfaceDataLayer\bin\Debug\DataModelLayers.dll
+C:\Inetpub\wwwroot\InterfaceDataLayer\bin\Debug\DataModelLayers.pdb
+C:\Inetpub\wwwroot\InterfaceDataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\InterfaceDataLayer\obj\Debug\InterfaceDataLayer.dll
+C:\Inetpub\wwwroot\InterfaceDataLayer\obj\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\SEM III\eProject\InterfaceDataLayer\bin\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\SEM III\eProject\InterfaceDataLayer\bin\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\SEM III\eProject\InterfaceDataLayer\bin\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\InterfaceDataLayer\bin\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\InterfaceDataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\InterfaceDataLayer\obj\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\SEM III\eProject\InterfaceDataLayer\obj\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\InterfaceDataLayer\bin\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\InterfaceDataLayer\bin\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\InterfaceDataLayer\bin\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\InterfaceDataLayer\bin\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\InterfaceDataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SourceCode\InterfaceDataLayer\obj\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\InterfaceDataLayer\obj\Debug\InterfaceDataLayer.pdb

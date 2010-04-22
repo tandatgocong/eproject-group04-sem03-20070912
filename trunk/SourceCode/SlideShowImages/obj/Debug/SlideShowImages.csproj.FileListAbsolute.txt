@@ -1,0 +1,132 @@
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\TestPage.html
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\System.Xml.Linq.xml
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\obj\Debug\App.g.cs
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\obj\Debug\Page.g.cs
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\obj\Debug\XapCacheFile.xml
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\SlideShowImages.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\SlideShowImages.pdb
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\Bin\Debug\SlideShowImages.xap
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\obj\Debug\SlideShowImages.g.resources
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\obj\Debug\SlideShowImages.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\ImageRotator_CSharp\ImageRotator_CSharp\obj\Debug\SlideShowImages.pdb
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\SlideShowImages.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\SlideShowImages.pdb
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\SlideShowImages.xap
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\TestPage.html
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\System.Xml.Linq.xml
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\obj\Debug\App.g.cs
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\obj\Debug\Page.g.cs
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\obj\Debug\SlideShowImages.g.resources
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\obj\Debug\SlideShowImages.dll
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\obj\Debug\SlideShowImages.pdb
+C:\Documents and Settings\Le Dat\Desktop\New Folder\SlideShowImages\SlideShowImages\obj\Debug\XapCacheFile.xml
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\AppManifest.xaml
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\SlideShowImages.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\SlideShowImages.pdb
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\SlideShowImages.xap
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\TestPage.html
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\System.Xml.Linq.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\System.Xml.Linq.xml
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\obj\Debug\App.g.cs
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\obj\Debug\Page.g.cs
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\obj\Debug\SlideShowImages.g.resources
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\obj\Debug\SlideShowImages.dll
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\obj\Debug\SlideShowImages.pdb
+C:\Documents and Settings\Le Dat\Desktop\SlideShowImages\SlideShowImages\obj\Debug\XapCacheFile.xml
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\AppManifest.xaml
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\SlideShowImages.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\SlideShowImages.pdb
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\SlideShowImages.xap
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\TestPage.html
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\System.Xml.Linq.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\System.Xml.Linq.xml
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Inetpub\wwwroot\SlideShowImages\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\SlideShowImages\obj\Debug\App.g.cs
+C:\Inetpub\wwwroot\SlideShowImages\obj\Debug\Page.g.cs
+C:\Inetpub\wwwroot\SlideShowImages\obj\Debug\SlideShowImages.g.resources
+C:\Inetpub\wwwroot\SlideShowImages\obj\Debug\SlideShowImages.dll
+C:\Inetpub\wwwroot\SlideShowImages\obj\Debug\SlideShowImages.pdb
+C:\Inetpub\wwwroot\SlideShowImages\obj\Debug\XapCacheFile.xml
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\AppManifest.xaml
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\SlideShowImages.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\SlideShowImages.pdb
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\SlideShowImages.xap
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\TestPage.html
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\System.Xml.Linq.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\System.Xml.Linq.xml
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\obj\Debug\App.g.cs
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\obj\Debug\Page.g.cs
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\obj\Debug\SlideShowImages.g.resources
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\obj\Debug\SlideShowImages.dll
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\obj\Debug\SlideShowImages.pdb
+D:\FPT - APTECH\SEM III\eProject\SlideShowImages\obj\Debug\XapCacheFile.xml
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\AppManifest.xaml
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\SlideShowImages.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\SlideShowImages.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\SlideShowImages.xap
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\TestPage.html
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\System.Xml.Linq.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\System.Xml.Linq.xml
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\obj\Debug\App.g.cs
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\obj\Debug\Page.g.cs
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\obj\Debug\SlideShowImages.g.resources
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\obj\Debug\SlideShowImages.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\obj\Debug\SlideShowImages.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\SlideShowImages\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,36 @@
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\BusinessLayers.dll
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\BusinessLayers.pdb
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\DataAccessLayers.dll
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\DataModelLayers.dll
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\InterfaceDataLayer.dll
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\String_Indentity.dll
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\DataAccessLayers.pdb
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\DataModelLayers.pdb
+C:\Inetpub\wwwroot\BusinessLayers\bin\Debug\InterfaceDataLayer.pdb
+C:\Inetpub\wwwroot\BusinessLayers\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\BusinessLayers\obj\Debug\BusinessLayers.dll
+C:\Inetpub\wwwroot\BusinessLayers\obj\Debug\BusinessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\BusinessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\BusinessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\DataAccessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\String_Indentity.dll
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\DataAccessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\bin\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\obj\Debug\BusinessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\BusinessLayers\obj\Debug\BusinessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\BusinessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\BusinessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\DataAccessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\String_Indentity.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\DataAccessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\bin\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\obj\Debug\BusinessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\BusinessLayers\obj\Debug\BusinessLayers.pdb

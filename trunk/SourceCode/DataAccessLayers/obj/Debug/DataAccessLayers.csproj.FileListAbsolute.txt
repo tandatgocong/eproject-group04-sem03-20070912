@@ -1,0 +1,36 @@
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\bin\Debug\DataAccessLayers.dll
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\bin\Debug\DataAccessLayers.pdb
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\obj\Debug\DataAccessLayers.dll
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\obj\Debug\DataAccessLayers.pdb
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\bin\Debug\DModel.dll
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\bin\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\bin\Debug\DModel.pdb
+D:\FPT - APTECH\BOOKONLINE\DataAccessLayers\bin\Debug\InterfaceDataLayer.pdb
+C:\Inetpub\wwwroot\DataAccessLayers\bin\Debug\DataAccessLayers.dll
+C:\Inetpub\wwwroot\DataAccessLayers\bin\Debug\DataAccessLayers.pdb
+C:\Inetpub\wwwroot\DataAccessLayers\bin\Debug\DataModelLayers.dll
+C:\Inetpub\wwwroot\DataAccessLayers\bin\Debug\InterfaceDataLayer.dll
+C:\Inetpub\wwwroot\DataAccessLayers\bin\Debug\DataModelLayers.pdb
+C:\Inetpub\wwwroot\DataAccessLayers\bin\Debug\InterfaceDataLayer.pdb
+C:\Inetpub\wwwroot\DataAccessLayers\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\DataAccessLayers\obj\Debug\DataAccessLayers.dll
+C:\Inetpub\wwwroot\DataAccessLayers\obj\Debug\DataAccessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\bin\Debug\DataAccessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\bin\Debug\DataAccessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\bin\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\bin\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\bin\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\bin\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\obj\Debug\DataAccessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\DataAccessLayers\obj\Debug\DataAccessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\bin\Debug\DataAccessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\bin\Debug\DataAccessLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\bin\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\bin\Debug\InterfaceDataLayer.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\bin\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\bin\Debug\InterfaceDataLayer.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\obj\Debug\DataAccessLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataAccessLayers\obj\Debug\DataAccessLayers.pdb

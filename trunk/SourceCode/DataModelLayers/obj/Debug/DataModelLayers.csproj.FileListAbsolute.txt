@@ -1,0 +1,20 @@
+D:\FPT - APTECH\BOOKONLINE\DModel\bin\Debug\DModel.dll
+D:\FPT - APTECH\BOOKONLINE\DModel\bin\Debug\DModel.pdb
+D:\FPT - APTECH\BOOKONLINE\DModel\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\BOOKONLINE\DModel\obj\Debug\DModel.dll
+D:\FPT - APTECH\BOOKONLINE\DModel\obj\Debug\DModel.pdb
+C:\Inetpub\wwwroot\DataModelLayers\bin\Debug\DataModelLayers.dll
+C:\Inetpub\wwwroot\DataModelLayers\bin\Debug\DataModelLayers.pdb
+C:\Inetpub\wwwroot\DataModelLayers\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\DataModelLayers\obj\Debug\DataModelLayers.dll
+C:\Inetpub\wwwroot\DataModelLayers\obj\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\DataModelLayers\bin\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\DataModelLayers\bin\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\DataModelLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\DataModelLayers\obj\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\DataModelLayers\obj\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataModelLayers\bin\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataModelLayers\bin\Debug\DataModelLayers.pdb
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataModelLayers\obj\Debug\ResolveAssemblyReference.cache
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataModelLayers\obj\Debug\DataModelLayers.dll
+D:\FPT - APTECH\SEM III\eProject\SourceCode\DataModelLayers\obj\Debug\DataModelLayers.pdb

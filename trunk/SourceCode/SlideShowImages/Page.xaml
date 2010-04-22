@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="SlideShowImages.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+	xmlns:local="clr-namespace:SlideShowImages"
+    x:Name="imageRotatorControl">
+  
+	<Border x:Name="imageBorder" Cursor="Hand">
+		<Canvas x:Name="layoutRoot" Background="White" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="0" >
+			<StackPanel x:Name="imageStackPanel" Width="255" Height="400"/>
+			<Border x:Name="navigationBorder" Background="White" Opacity=".5" CornerRadius="10" BorderBrush="White" BorderThickness="0" Canvas.Left="10" Canvas.Top="325" >
+				<StackPanel x:Name="navigationStackPanel" Orientation="Horizontal" Margin="2,1,2,1" >
+					<Polygon x:Name="arrowLeft" MouseLeftButtonDown="LeftArrow_MouseLeftButtonDown" MouseEnter="Arrow_MouseEnter" MouseLeave="Arrow_MouseLeave"
+							 Points="0,6,10,0,10,12" Fill="Black" VerticalAlignment="Center" Margin="2,2,8,2" />
+					<StackPanel x:Name="numberedItemsStackPanel" Orientation="Horizontal" />
+					<Polygon x:Name="arrowRight" MouseLeftButtonDown="RightArrow_MouseLeftButtonDown" MouseEnter="Arrow_MouseEnter" MouseLeave="Arrow_MouseLeave" 
+							Points="0,0,10,6,0,12" Fill="Black" VerticalAlignment="Center" Margin="2" />
+				</StackPanel>
+			</Border>
+		</Canvas>
+	</Border>
+</UserControl>
